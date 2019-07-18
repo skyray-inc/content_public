@@ -1,0 +1,10 @@
+Whitelist_Process
+cmd.exe
+splunkd.exe
+splunk.exe
+sedlauncher.exe
+explorer.exe
+msiexec.exe
+powershell.exe
+sedsvc.exe
+RuntimeBroker.exe
