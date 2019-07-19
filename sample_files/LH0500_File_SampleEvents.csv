@@ -1,0 +1,202 @@
+lhub_ts,Account_Name,_time,index,New_Process_ID,Creator_Process_ID,Creator_Process_Name,Security_ID,ComputerName,New_Process_Name,Account_Domain,_kv
+1.55E+12,"Administrator,-",2019-02-14T10:12:32.000-06:00,wintel,0x2fe4,0x1080,C:\Windows\cscript.exe,"S-1-5-21-2818115297-1122405967-1646991738-500,S-1-0-0",WINDOWS-5M8M95H.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"Administrator,-",2019-02-14T10:12:32.000-06:00,wintel,0x2a30,0x1080,C:\Windows\quser.exe,"S-1-5-21-2818115297-1122405967-1646991738-500,S-1-0-0",WINDOWS-5M8M95H.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"Administrator,-",2019-02-14T10:12:32.000-06:00,wintel,0x2a30,0x1080,C:\Windows\quser.exe,"S-1-5-21-2818115297-1122405967-1646991738-500,S-1-0-0",WINDOWS-5M8M95H.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"Ben,-",2019-02-14T10:12:32.000-06:00,wintel,0x2fe4,0x1080,C:\Windows\cscript.exe,"S-1-5-21-2818115297-1122405967-1646991738-500,S-1-0-0",WINDOWS-asdf.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"Ben,-",2019-02-14T10:12:32.000-06:00,wintel,0x2a30,0x1080,C:\Windows\quser.exe,"S-1-5-21-2818115297-1122405967-1646991738-500,S-1-0-0",WINDOWS-asdf.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"Ben,-",2019-02-14T10:12:32.000-06:00,wintel,0x2a30,0x1080,C:\Windows\qwinsta.exe,"S-1-5-21-2818115297-1122405967-1646991738-500,S-1-0-0",WINDOWS-asdf.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"DELTA$,-",2019-02-14T10:02:22.000-06:00,wintel,0x2278,0x898,C:\Program Files\rempl\attrib.exe,"S-1-5-18,S-1-0-0",delta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"DELTA$,-",2019-02-14T10:02:22.000-06:00,wintel,0x1d28,0x898,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",delta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"DELTA$,-",2019-02-14T10:02:22.000-06:00,wintel,0xdc,0x898,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",delta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"DELTA$,-",2019-02-14T10:02:20.000-06:00,wintel,0x1e90,0x898,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",delta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"DELTA$,-",2019-02-14T10:02:20.000-06:00,wintel,0x13c0,0x898,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",delta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"DELTA$,-",2019-02-14T10:02:18.000-06:00,wintel,0xfac,0x898,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",delta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"Administrator,-",2019-02-14T09:27:22.000-06:00,wintel,0x2458,0xf74,C:\Windows\arp.exe,"S-1-5-21-2818115297-1122405967-1646991738-500,S-1-0-0",kha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"Administrator,-",2019-02-14T09:27:22.000-06:00,wintel,0x24a0,0xf74,C:\Program Files\rempl\ping.exe,"S-1-5-21-2818115297-1122405967-1646991738-500,S-1-0-0",kha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"Administrator,-",2019-02-14T09:23:57.000-06:00,wintel,0x478,0xfd8,C:\Program Files\rempl\ping.exe,"S-1-5-21-2818115297-1122405967-1646991738-500,S-1-0-0",WINDOWS-AUPC1C5.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"KHA$,-",2019-02-14T09:20:15.000-06:00,wintel,0x15f4,0x16a0,C:\Program Files\rempl\mimikatz.exe,"S-1-5-18,S-1-0-0",kha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"KHA$,-",2019-02-14T09:20:15.000-06:00,wintel,0x164c,0x16a0,C:\Program Files\rempl\netsh.exe,"S-1-5-18,S-1-0-0",kha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"KHA$,-",2019-02-14T09:20:14.000-06:00,wintel,0x2364,0x16a0,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",kha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"KHA$,-",2019-02-14T09:20:13.000-06:00,wintel,0x1f74,0x16a0,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",kha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"KHA$,-",2019-02-14T09:20:13.000-06:00,wintel,0x1d04,0x16a0,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",kha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"KHA$,-",2019-02-14T09:20:12.000-06:00,wintel,0x1608,0x16a0,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",kha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"ALPHA$,Administrator",2019-02-14T09:13:29.000-06:00,wintel,0x1aec,0x2970,C:\Windows\net.exe,"S-1-5-18,S-1-0-0",alpha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,HQ1",1
+1.55E+12,"Administrator,-",2019-02-14T09:12:59.000-06:00,wintel,0x22f4,0x518,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"S-1-5-21-2818115297-1122405967-1646991738-500,S-1-0-0",alpha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"Administrator,-",2019-02-14T09:12:44.000-06:00,wintel,0x2b38,0x518,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"S-1-5-21-2818115297-1122405967-1646991738-500,S-1-0-0",alpha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"Administrator,-",2019-02-14T09:12:37.000-06:00,wintel,0x23c4,0x518,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"S-1-5-21-2818115297-1122405967-1646991738-500,S-1-0-0",alpha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"Administrator,-",2019-02-14T09:11:56.000-06:00,wintel,0x25c4,0x518,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"S-1-5-21-2818115297-1122405967-1646991738-500,S-1-0-0",alpha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"Administrator,-",2019-02-14T09:10:56.000-06:00,wintel,0x2314,0x518,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"S-1-5-21-2818115297-1122405967-1646991738-500,S-1-0-0",alpha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"Administrator,-",2019-02-14T09:09:47.000-06:00,wintel,0x1f1c,0x518,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"S-1-5-21-2818115297-1122405967-1646991738-500,S-1-0-0",alpha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"developer6,-",2019-02-14T09:00:59.000-06:00,wintel,0x1e64,0x31c,C:\Windows\ipconfig.exe,"S-1-5-21-2818115297-1122405967-1646991738-1203,S-1-0-0",tha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"KAPPA$,-",2019-02-14T03:40:15.000-06:00,wintel,0x144c,0xf6c,C:\Program Files\rempl\ping.exe,"S-1-5-18,S-1-0-0",kappa.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"KAPPA$,-",2019-02-14T03:41:15.000-06:00,wintel,0x13c4,0xf6c,C:\Program Files\rempl\ping.exe,"S-1-5-18,S-1-0-0",kappa.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"KAPPA$,-",2019-02-14T03:42:15.000-06:00,wintel,0x15c4,0xf6c,C:\Program Files\rempl\mimikatz.exe,"S-1-5-18,S-1-0-0",kappa.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"KAPPA$,-",2019-02-14T03:43:12.000-06:00,wintel,0xeb4,0xf6c,C:\Program Files\rempl\netsh.exe,"S-1-5-18,S-1-0-0",kappa.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"KAPPA$,-",2019-02-14T03:40:11.000-06:00,wintel,0x27c,0xf6c,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",kappa.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"KAPPA$,-",2019-02-14T03:40:10.000-06:00,wintel,0x1278,0xf6c,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",kappa.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"HA$,-",2019-02-14T03:10:01.000-06:00,wintel,0xc7c,0x12dc,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",ha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"HA$,-",2019-02-14T03:10:01.000-06:00,wintel,0xe0c,0x12dc,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",ha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"HA$,-",2019-02-14T03:10:01.000-06:00,wintel,0xc18,0x12dc,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",ha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"HA$,-",2019-02-14T03:09:59.000-06:00,wintel,0xee0,0x12dc,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",ha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"HA$,-",2019-02-14T03:09:58.000-06:00,wintel,0x14dc,0x12dc,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",ha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"HA$,-",2019-02-14T03:09:56.000-06:00,wintel,0x17c8,0x12dc,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",ha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"THA$,-",2019-02-14T01:07:46.000-06:00,wintel,0x1e58,0x1284,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",tha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"THA$,-",2019-02-14T01:07:46.000-06:00,wintel,0x9e8,0x1284,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",tha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"THA$,-",2019-02-14T01:07:46.000-06:00,wintel,0x778,0x1284,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",tha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"THA$,-",2019-02-14T01:07:43.000-06:00,wintel,0x1588,0x1284,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",tha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"THA$,-",2019-02-14T01:07:43.000-06:00,wintel,0x740,0x1284,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",tha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"THA$,-",2019-02-14T01:07:42.000-06:00,wintel,0x9b0,0x1284,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",tha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"GAMMA$,-",2019-02-14T00:43:50.000-06:00,wintel,0x15a0,0xa9c,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",gamma.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"GAMMA$,-",2019-02-14T00:43:50.000-06:00,wintel,0x1200,0xa9c,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",gamma.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"GAMMA$,-",2019-02-14T00:43:49.000-06:00,wintel,0x44c,0xa9c,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",gamma.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"GAMMA$,-",2019-02-14T00:43:41.000-06:00,wintel,0xa4c,0xa9c,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",gamma.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"GAMMA$,-",2019-02-14T00:43:40.000-06:00,wintel,0x4f8,0xa9c,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",gamma.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"GAMMA$,-",2019-02-14T00:43:38.000-06:00,wintel,0xe04,0xa9c,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",gamma.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"mark,-",2019-02-13T16:38:51.000-06:00,wintel,0x12ac,0x147c,C:\Windows\explorer.exe,"S-1-5-21-2818115297-1122405967-1646991738-1138,S-1-0-0",kha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"mark,-",2019-02-13T16:38:07.000-06:00,wintel,0x16b8,0x20d4,C:\Windows\explorer.exe,"S-1-5-21-2818115297-1122405967-1646991738-1138,S-1-0-0",zeta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"IOTA$,-",2019-02-13T16:24:27.000-06:00,wintel,0x214,0x16f8,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",iota.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"IOTA$,-",2019-02-13T16:24:27.000-06:00,wintel,0x170c,0x16f8,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",iota.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"IOTA$,-",2019-02-13T16:24:26.000-06:00,wintel,0x67c,0x16f8,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",iota.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"IOTA$,-",2019-02-13T16:24:24.000-06:00,wintel,0x139c,0x16f8,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",iota.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"IOTA$,-",2019-02-13T16:24:24.000-06:00,wintel,0x434,0x16f8,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",iota.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"IOTA$,-",2019-02-13T16:24:22.000-06:00,wintel,0x1774,0x16f8,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",iota.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"WINDOWS-7N4Q14D$,-",2019-02-13T15:18:59.000-06:00,wintel,0x2b0,0x3f8,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",WINDOWS-7N4Q14D.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"WINDOWS-7N4Q14D$,-",2019-02-13T15:18:59.000-06:00,wintel,0x420,0x3f8,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",WINDOWS-7N4Q14D.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"WINDOWS-7N4Q14D$,-",2019-02-13T15:18:59.000-06:00,wintel,0x146c,0x3f8,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",WINDOWS-7N4Q14D.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"WINDOWS-7N4Q14D$,-",2019-02-13T15:18:57.000-06:00,wintel,0x344,0x3f8,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",WINDOWS-7N4Q14D.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"WINDOWS-7N4Q14D$,-",2019-02-13T15:18:56.000-06:00,wintel,0x1700,0x3f8,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",WINDOWS-7N4Q14D.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"WINDOWS-7N4Q14D$,-",2019-02-13T15:18:55.000-06:00,wintel,0xfbc,0x3f8,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",WINDOWS-7N4Q14D.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"developer3,-",2019-02-13T13:21:17.000-06:00,wintel,0x2340,0x163c,C:\Windows\explorer.exe,"S-1-5-21-2818115297-1122405967-1646991738-1193,S-1-0-0",delta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"developer3,-",2019-02-13T13:10:24.000-06:00,wintel,0x1f60,0x1828,C:\Windows\explorer.exe,"S-1-5-21-2818115297-1122405967-1646991738-1193,S-1-0-0",delta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"developer3,-",2019-02-13T13:09:49.000-06:00,wintel,0x1470,0x1828,C:\Windows\explorer.exe,"S-1-5-21-2818115297-1122405967-1646991738-1193,S-1-0-0",delta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"KAPPA$,-",2019-02-14T04:40:15.000-06:00,wintel,0x144c,0xf6c,C:\Program Files\rempl\ping.exe,"S-1-5-18,S-1-0-0",kappa.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"KAPPA$,-",2019-02-14T04:41:15.000-06:00,wintel,0x13c4,0xf6c,C:\Program Files\rempl\ping.exe,"S-1-5-18,S-1-0-0",kappa.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"KAPPA$,-",2019-02-14T04:42:15.000-06:00,wintel,0x15c4,0xf6c,C:\Program Files\rempl\mimikatz.exe,"S-1-5-18,S-1-0-0",kappa.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"KAPPA$,-",2019-02-14T04:43:12.000-06:00,wintel,0xeb4,0xf6c,C:\Program Files\rempl\netsh.exe,"S-1-5-18,S-1-0-0",kappa.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"KAPPA$,-",2019-02-14T04:40:11.000-06:00,wintel,0x27c,0xf6c,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",kappa.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"KAPPA$,-",2019-02-14T03:40:10.000-06:00,wintel,0x1278,0xf6c,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",kappa.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"BA$,-",2019-02-13T12:22:22.000-06:00,wintel,0x818,0x6f8,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",ba.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"developer3,-",2019-02-13T12:17:40.000-06:00,wintel,0x1098,0x1828,C:\Windows\explorer.exe,"S-1-5-21-2818115297-1122405967-1646991738-1193,S-1-0-0",delta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"mark,-",2019-02-13T11:58:01.000-06:00,wintel,0x1efc,0xf0,C:\Windows\explorer.exe,"S-1-5-21-2818115297-1122405967-1646991738-1138,S-1-0-0",kha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"Administrator,-",2019-02-13T11:50:56.000-06:00,wintel,0x2a6c,0x15c4,C:\Program Files\rempl\dsquery.exe,"S-1-5-21-2818115297-1122405967-1646991738-500,S-1-0-0",WINDOWS-AUPC1C5.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"Administrator,-",2019-02-13T11:39:42.000-06:00,wintel,0x37c,0x2104,C:\Program Files\rempl\ping.exe,"S-1-5-21-2818115297-1122405967-1646991738-500,S-1-0-0",alpha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"BETA$,Administrator",2019-02-13T11:30:03.000-06:00,wintel,0x2180,0x1bbc,C:\Program Files\rempl\mimikatz.exe,"S-1-5-18,S-1-0-0",beta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,HQ1",1
+1.55E+12,"Administrator,-",2019-02-13T11:23:23.000-06:00,wintel,0x388,0xcdc,C:\Program Files\rempl\netsh.exe,"S-1-5-21-2818115297-1122405967-1646991738-500,S-1-0-0",alpha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"eric,-",2019-02-13T11:02:52.000-06:00,wintel,0x18b4,0x2be8,C:\Windows\explorer.exe,"S-1-5-21-2818115297-1122405967-1646991738-1195,S-1-0-0",beta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"developer3,-",2019-02-13T10:55:31.000-06:00,wintel,0x974,0x1c48,C:\Windows\System32\cmd.exe,"S-1-5-21-2818115297-1122405967-1646991738-1193,S-1-0-0",delta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"developer3,-",2019-02-13T10:55:30.000-06:00,wintel,0x1c48,0x10e8,C:\Users\DEVELO~1\AppData\Local\Temp\is-87RLM.tmp\Git-2.20.1-64-bit.tmp,"S-1-5-21-2818115297-1122405967-1646991738-1193,S-1-0-0",delta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"developer3,-",2019-02-13T10:53:42.000-06:00,wintel,0x1a60,0x10e8,C:\Users\DEVELO~1\AppData\Local\Temp\is-87RLM.tmp\Git-2.20.1-64-bit.tmp,"S-1-5-21-2818115297-1122405967-1646991738-1193,S-1-0-0",delta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"developer3,-",2019-02-13T10:53:41.000-06:00,wintel,0x1e30,0x10e8,C:\Users\DEVELO~1\AppData\Local\Temp\is-87RLM.tmp\Git-2.20.1-64-bit.tmp,"S-1-5-21-2818115297-1122405967-1646991738-1193,S-1-0-0",delta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"eric,-",2019-02-13T10:43:16.000-06:00,wintel,0xc9c,0x2868,C:\Windows\explorer.exe,"S-1-5-21-2818115297-1122405967-1646991738-1195,S-1-0-0",beta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"DELTA$,-",2019-02-13T10:34:46.000-06:00,wintel,0x1c24,0x354,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",delta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"DELTA$,-",2019-02-13T10:34:45.000-06:00,wintel,0x1a0c,0x354,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",delta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"DELTA$,-",2019-02-13T10:34:44.000-06:00,wintel,0x1da8,0x354,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",delta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"DELTA$,-",2019-02-13T10:34:33.000-06:00,wintel,0x2108,0x354,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",delta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"DELTA$,-",2019-02-13T10:34:33.000-06:00,wintel,0x1d48,0x354,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",delta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"DELTA$,-",2019-02-13T10:34:31.000-06:00,wintel,0x217c,0x354,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",delta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"developer3,-",2019-02-13T10:31:22.000-06:00,wintel,0x1bf0,0x1828,C:\Windows\explorer.exe,"S-1-5-21-2818115297-1122405967-1646991738-1193,S-1-0-0",delta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"developer3,-",2019-02-13T10:31:21.000-06:00,wintel,0x1f28,0x1828,C:\Windows\explorer.exe,"S-1-5-21-2818115297-1122405967-1646991738-1193,S-1-0-0",delta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"developer3,-",2019-02-13T10:31:20.000-06:00,wintel,0x1270,0x1828,C:\Windows\explorer.exe,"S-1-5-21-2818115297-1122405967-1646991738-1193,S-1-0-0",delta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"developer3,-",2019-02-13T10:31:19.000-06:00,wintel,0x1aa4,0x1828,C:\Windows\explorer.exe,"S-1-5-21-2818115297-1122405967-1646991738-1193,S-1-0-0",delta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"JIM$,-",2019-02-13T10:22:42.000-06:00,wintel,0x1d58,0x4c0,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",jim.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"JIM$,-",2019-02-13T10:22:41.000-06:00,wintel,0x1c28,0x4c0,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",jim.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"JIM$,-",2019-02-13T10:22:41.000-06:00,wintel,0x430,0x4c0,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",jim.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"JIM$,-",2019-02-13T10:22:40.000-06:00,wintel,0x1e10,0x4c0,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",jim.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"JIM$,-",2019-02-13T10:22:40.000-06:00,wintel,0x19ac,0x4c0,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",jim.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"JIM$,-",2019-02-13T10:22:38.000-06:00,wintel,0xa44,0x4c0,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",jim.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"BETA$,-",2019-02-13T10:03:15.000-06:00,wintel,0x14f4,0x2490,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",beta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"BETA$,-",2019-02-13T10:03:15.000-06:00,wintel,0x1b3c,0x2490,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",beta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"BETA$,-",2019-02-13T10:03:15.000-06:00,wintel,0xc3c,0x2490,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",beta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"BETA$,-",2019-02-13T10:03:13.000-06:00,wintel,0x122c,0x2490,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",beta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"BETA$,-",2019-02-13T10:03:13.000-06:00,wintel,0x1720,0x2490,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",beta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"BETA$,-",2019-02-13T10:03:12.000-06:00,wintel,0x196c,0x2490,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",beta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"WINDOWS-5M8M95H$,-",2019-02-13T10:02:27.000-06:00,wintel,0xb5c,0x236c,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",WINDOWS-5M8M95H.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"WINDOWS-5M8M95H$,-",2019-02-13T10:02:27.000-06:00,wintel,0x8a0,0x236c,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",WINDOWS-5M8M95H.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"WINDOWS-5M8M95H$,-",2019-02-13T10:02:27.000-06:00,wintel,0x1cc8,0x236c,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",WINDOWS-5M8M95H.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"WINDOWS-5M8M95H$,-",2019-02-13T10:02:25.000-06:00,wintel,0xccc,0x236c,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",WINDOWS-5M8M95H.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"WINDOWS-5M8M95H$,-",2019-02-13T10:02:25.000-06:00,wintel,0x23e4,0x236c,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",WINDOWS-5M8M95H.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"WINDOWS-5M8M95H$,-",2019-02-13T10:02:24.000-06:00,wintel,0x1948,0x236c,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",WINDOWS-5M8M95H.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"EPSILON$,-",2019-02-13T10:02:10.000-06:00,wintel,0x1968,0xd28,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",epsilon.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"EPSILON$,-",2019-02-13T10:02:10.000-06:00,wintel,0x234c,0xd28,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",epsilon.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"EPSILON$,-",2019-02-13T10:02:10.000-06:00,wintel,0x2280,0xd28,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",epsilon.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"EPSILON$,-",2019-02-13T10:02:08.000-06:00,wintel,0x2140,0xd28,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",epsilon.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"EPSILON$,-",2019-02-13T10:02:08.000-06:00,wintel,0x1940,0xd28,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",epsilon.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"EPSILON$,-",2019-02-13T10:02:06.000-06:00,wintel,0x22c4,0xd28,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",epsilon.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"ZETA$,-",2019-02-13T10:01:22.000-06:00,wintel,0x1214,0x1478,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",zeta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"ZETA$,-",2019-02-13T10:01:22.000-06:00,wintel,0x380,0x1478,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",zeta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"ZETA$,-",2019-02-13T10:01:22.000-06:00,wintel,0x1d64,0x1478,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",zeta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"ZETA$,-",2019-02-13T10:01:20.000-06:00,wintel,0x22d4,0x1478,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",zeta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"ZETA$,-",2019-02-13T10:01:20.000-06:00,wintel,0x168c,0x1478,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",zeta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"ZETA$,-",2019-02-13T10:01:19.000-06:00,wintel,0x1d94,0x1478,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",zeta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"ALPHA$,-",2019-02-13T10:01:10.000-06:00,wintel,0x3f0,0x14ec,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",alpha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"ALPHA$,-",2019-02-13T10:01:10.000-06:00,wintel,0x125c,0x14ec,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",alpha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"ALPHA$,-",2019-02-13T10:01:10.000-06:00,wintel,0x308,0x14ec,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",alpha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"ALPHA$,-",2019-02-13T10:01:09.000-06:00,wintel,0x219c,0x14ec,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",alpha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"ALPHA$,-",2019-02-13T10:01:09.000-06:00,wintel,0x23ec,0x14ec,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",alpha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"ALPHA$,-",2019-02-13T10:01:07.000-06:00,wintel,0x1278,0x14ec,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",alpha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"WINDOWS-AUPC1C5$,-",2019-02-13T10:01:07.000-06:00,wintel,0x105c,0xfc,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",WINDOWS-AUPC1C5.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"WINDOWS-AUPC1C5$,-",2019-02-13T10:01:07.000-06:00,wintel,0x1308,0xfc,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",WINDOWS-AUPC1C5.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"WINDOWS-AUPC1C5$,-",2019-02-13T10:01:07.000-06:00,wintel,0xb98,0xfc,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",WINDOWS-AUPC1C5.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"WINDOWS-AUPC1C5$,-",2019-02-13T10:01:05.000-06:00,wintel,0x2554,0xfc,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",WINDOWS-AUPC1C5.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"WINDOWS-AUPC1C5$,-",2019-02-13T10:01:05.000-06:00,wintel,0x18e4,0xfc,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",WINDOWS-AUPC1C5.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"WINDOWS-AUPC1C5$,-",2019-02-13T10:00:53.000-06:00,wintel,0x1324,0xfc,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",WINDOWS-AUPC1C5.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"mark,-",2019-02-13T02:33:43.000-06:00,wintel,0x162c,0x1500,C:\Windows\explorer.exe,"S-1-5-21-2818115297-1122405967-1646991738-1138,S-1-0-0",kha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"eric,-",2019-02-13T02:22:19.000-06:00,wintel,0x2bf0,0x15d4,C:\Windows\explorer.exe,"S-1-5-21-2818115297-1122405967-1646991738-1195,S-1-0-0",WINDOWS-5M8M95H.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"eric,-",2019-02-13T02:17:51.000-06:00,wintel,0x19bc,0x15d4,C:\Windows\explorer.exe,"S-1-5-21-2818115297-1122405967-1646991738-1195,S-1-0-0",WINDOWS-5M8M95H.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"eric,-",2019-02-13T02:17:50.000-06:00,wintel,0x2714,0x15d4,C:\Windows\explorer.exe,"S-1-5-21-2818115297-1122405967-1646991738-1195,S-1-0-0",WINDOWS-5M8M95H.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"Administrator,-",2019-02-13T01:42:50.000-06:00,wintel,0x28c4,0x15c4,C:\Windows\explorer.exe,"S-1-5-21-2818115297-1122405967-1646991738-500,S-1-0-0",WINDOWS-AUPC1C5.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"Administrator,-",2019-02-13T01:42:50.000-06:00,wintel,0x2578,0x15c4,C:\Windows\explorer.exe,"S-1-5-21-2818115297-1122405967-1646991738-500,S-1-0-0",WINDOWS-AUPC1C5.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"sally,-",2019-02-12T23:26:47.000-06:00,wintel,0x2454,0x16d0,C:\Windows\explorer.exe,"S-1-5-21-2818115297-1122405967-1646991738-1173,S-1-0-0",beta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"ETA$,-",2019-02-12T20:16:41.000-06:00,wintel,0x884,0xad8,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",eta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"ETA$,-",2019-02-12T20:16:40.000-06:00,wintel,0xb80,0xad8,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",eta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"ETA$,-",2019-02-12T20:16:28.000-06:00,wintel,0x16d4,0xad8,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",eta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"ETA$,-",2019-02-12T20:16:26.000-06:00,wintel,0x141c,0xad8,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",eta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"ETA$,-",2019-02-12T20:16:26.000-06:00,wintel,0xc60,0xad8,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",eta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"ETA$,-",2019-02-12T20:16:26.000-06:00,wintel,0x36c,0xad8,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",eta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"THETA$,-",2019-02-12T20:07:13.000-06:00,wintel,0x1638,0x1728,C:\Program Files\rempl\sedsvc.exe,"S-1-5-18,S-1-0-0",theta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"THETA$,-",2019-02-12T20:07:13.000-06:00,wintel,0x1618,0x1728,C:\Program Files\rempl\sedsvc.exe,"S-1-5-18,S-1-0-0",theta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"THETA$,-",2019-02-12T20:07:13.000-06:00,wintel,0x1528,0x1728,C:\Program Files\rempl\sedsvc.exe,"S-1-5-18,S-1-0-0",theta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"THETA$,-",2019-02-12T20:07:12.000-06:00,wintel,0xd90,0x1728,C:\Program Files\rempl\sedsvc.exe,"S-1-5-18,S-1-0-0",theta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"THETA$,-",2019-02-12T20:07:12.000-06:00,wintel,0x1304,0x1728,C:\Program Files\rempl\sedsvc.exe,"S-1-5-18,S-1-0-0",theta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"THETA$,-",2019-02-12T20:07:10.000-06:00,wintel,0xe0c,0x1728,C:\Program Files\rempl\sedsvc.exe,"S-1-5-18,S-1-0-0",theta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"mark,-",2019-02-12T19:38:43.000-06:00,wintel,0xef8,0x21f0,C:\Windows\explorer.exe,"S-1-5-21-2818115297-1122405967-1646991738-1138,S-1-0-0",zeta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"mark,-",2019-02-12T19:19:16.000-06:00,wintel,0x1044,0x21f0,C:\Windows\explorer.exe,"S-1-5-21-2818115297-1122405967-1646991738-1138,S-1-0-0",zeta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"Administrator,-",2019-02-12T17:03:01.000-06:00,wintel,0x1794,0x1660,C:\Windows\explorer.exe,"S-1-5-21-2818115297-1122405967-1646991738-500,S-1-0-0",alpha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"Administrator,-",2019-02-12T14:38:33.000-06:00,wintel,0x2278,0x11b8,C:\Program Files\Npcap\NPFInstall.exe,"S-1-5-21-2818115297-1122405967-1646991738-500,S-1-0-0",zeta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"Administrator,-",2019-02-12T14:38:27.000-06:00,wintel,0x1894,0x230c,C:\Program Files\Npcap\NPFInstall.exe,"S-1-5-21-2818115297-1122405967-1646991738-500,S-1-0-0",zeta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"IOTA$,-",2019-02-12T14:35:30.000-06:00,wintel,0x1300,0x11cc,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",iota.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"IOTA$,-",2019-02-12T14:35:30.000-06:00,wintel,0x1328,0x11cc,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",iota.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"ZETA$,Administrator",2019-02-12T14:35:23.000-06:00,wintel,0x2578,0xd70,C:\Windows\explorer.exe,"S-1-5-18,S-1-0-0",zeta.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,HQ1",1
+1.55E+12,"IOTA$,-",2019-02-12T14:35:23.000-06:00,wintel,0xa78,0x11cc,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",iota.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"IOTA$,-",2019-02-12T14:35:21.000-06:00,wintel,0xa28,0x11cc,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",iota.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"IOTA$,-",2019-02-12T14:35:20.000-06:00,wintel,0x10d8,0x11cc,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",iota.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"IOTA$,-",2019-02-12T14:35:09.000-06:00,wintel,0xc90,0x11cc,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",iota.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"HA$,-",2019-02-12T14:34:48.000-06:00,wintel,0xd48,0x600,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",ha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"HA$,-",2019-02-12T14:34:47.000-06:00,wintel,0x13c4,0x600,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",ha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"HA$,-",2019-02-12T14:34:35.000-06:00,wintel,0xee4,0x600,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",ha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"HA$,-",2019-02-12T14:34:33.000-06:00,wintel,0x690,0x600,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",ha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"HA$,-",2019-02-12T14:34:33.000-06:00,wintel,0x568,0x600,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",ha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"HA$,-",2019-02-12T14:34:33.000-06:00,wintel,0x1334,0x600,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",ha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"DAL$,-",2019-02-12T14:33:10.000-06:00,wintel,0x135c,0x12c8,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",dal.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"DAL$,-",2019-02-12T14:33:10.000-06:00,wintel,0xd80,0x12c8,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",dal.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"DAL$,-",2019-02-12T14:33:10.000-06:00,wintel,0x614,0x12c8,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",dal.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"DAL$,-",2019-02-12T14:33:08.000-06:00,wintel,0x11b8,0x12c8,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",dal.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"DAL$,-",2019-02-12T14:33:08.000-06:00,wintel,0x5b0,0x12c8,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",dal.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"DAL$,-",2019-02-12T14:33:07.000-06:00,wintel,0x298,0x12c8,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",dal.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"KAPPA$,-",2019-02-12T14:31:27.000-06:00,wintel,0x163c,0x1278,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",kappa.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"KAPPA$,-",2019-02-12T14:31:27.000-06:00,wintel,0x15e8,0x1278,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",kappa.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"KAPPA$,-",2019-02-12T14:31:27.000-06:00,wintel,0x159c,0x1278,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",kappa.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"KAPPA$,-",2019-02-12T14:31:08.000-06:00,wintel,0x1564,0x1278,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",kappa.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"KAPPA$,-",2019-02-12T14:31:08.000-06:00,wintel,0x1304,0x1278,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",kappa.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"KAPPA$,-",2019-02-12T14:31:06.000-06:00,wintel,0xdc8,0x1278,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",kappa.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"WINDOWS-7N4Q14D$,-",2019-02-12T14:30:59.000-06:00,wintel,0x980,0x82c,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",WINDOWS-7N4Q14D.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"WINDOWS-7N4Q14D$,-",2019-02-12T14:30:59.000-06:00,wintel,0x13d0,0x82c,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",WINDOWS-7N4Q14D.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"WINDOWS-7N4Q14D$,-",2019-02-12T14:30:59.000-06:00,wintel,0x1328,0x82c,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",WINDOWS-7N4Q14D.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"WINDOWS-7N4Q14D$,-",2019-02-12T14:30:56.000-06:00,wintel,0x10e8,0x82c,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",WINDOWS-7N4Q14D.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"WINDOWS-7N4Q14D$,-",2019-02-12T14:30:56.000-06:00,wintel,0x8dc,0x82c,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",WINDOWS-7N4Q14D.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"WINDOWS-7N4Q14D$,-",2019-02-12T14:30:53.000-06:00,wintel,0x10a8,0x82c,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",WINDOWS-7N4Q14D.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"THA$,-",2019-02-12T14:24:59.000-06:00,wintel,0x1f8c,0x18d8,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",tha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"THA$,-",2019-02-12T14:24:59.000-06:00,wintel,0x288,0x18d8,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",tha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"THA$,-",2019-02-12T14:24:58.000-06:00,wintel,0x123c,0x18d8,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",tha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"THA$,-",2019-02-12T14:24:58.000-06:00,wintel,0x10f4,0x18d8,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",tha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
+1.55E+12,"THA$,-",2019-02-12T14:24:58.000-06:00,wintel,0x12e8,0x18d8,C:\Program Files\rempl\sedlauncher.exe,"S-1-5-18,S-1-0-0",tha.hq1.com,C:\Windows\System32\cmd.exe,"HQ1,-",1
