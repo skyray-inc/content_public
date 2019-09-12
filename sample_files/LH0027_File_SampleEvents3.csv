@@ -1,0 +1,6 @@
+lhub_ts,Account_Name,_time,index,New_Process_ID,Process_Command_Line,Creator_Process_ID,Creator_Process_Name,Security_ID,ComputerName,New_Process_Name,Account_Domain,_kv
+1568133415000,"Host2$,Gord",2019-09-10T11:36:55.000-05:00,local,2A94,"""C:\WINDOWS\system32\dsac.exe""",1908,C:\Windows\explorer.exe,"S-1-5-18,S-1-5-21-1052468160-575763930-2460412666-1001",Host2,C:\Windows\System32\dsac.exe,"WORKGROUP,HOST2",
+1568133415000,"Gord,-",2019-09-10T11:36:55.000-05:00,local,2E+09,"""C:\WINDOWS\system32\dsac.exe""",1908,C:\Windows\explorer.exe,"S-1-5-21-1052468160-575763930-2460412666-1001,S-1-0-0",Host2,C:\Windows\System32\dsac.exe,"HOST2,-",
+1568133415000,"Mark,-",2019-09-10T11:36:55.000-05:00,local,2E+09,“C:\WINDOWS\system32\DCPromo.exe”,1908,C:\Windows\explorer.exe,"S-1-5-21-1052468160-575763930-2460412666-1001,S-1-0-0",Host2,C:\Windows\System32\DCPromo.exe,"HOST2,-",
+1568133415000,"Mark2,-",2019-09-10T11:36:55.000-05:00,local,2E+09,“C:\WINDOWS\system32\RepAdmin.exe”,1908,C:\Windows\explorer.exe,"S-1-5-21-1052468160-575763930-2460412666-1001,S-1-0-0",Host2,C:\Windows\System32\RepAdmin.exe,"HOST2,-",
+1567698075000,"Gord,-",2019-09-05T10:41:15.000-05:00,local,14A4,"""C:\Temp\mstsc.exe""",1908,C:\Windows\explorer.exe,"S-1-5-21-1052468160-575763930-2460412666-1001,S-1-0-0",Host2,C:\Temp\mstsc.exe,"HOST2,-",
