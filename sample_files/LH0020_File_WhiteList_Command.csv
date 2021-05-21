@@ -1,0 +1,4 @@
+Whitelist_Command
+sc.exe start pushtoinstall registration
+sc.exe start w32time task_started
+sc.exe start wuauserv
